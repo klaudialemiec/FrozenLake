@@ -6,7 +6,7 @@ Full list of available environments you can find on [OpenAI gym website](https:/
 The agent implementation was taken from [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/#) library.
 
 All information about experiments (model parameters, achived results in training and evaluating phase, tensorboard log, gameplay record, trained model) in directory `reports` (with the use of mlflow and tensorboard).
-
+Trained models are saved in folder `models`.
 
 
 ## FrozenLake 8x8 game
