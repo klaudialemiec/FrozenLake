@@ -1,0 +1,4 @@
+artifact_location: file///C:\PROJEKTY\GAT\gat-ml-eng-devtest\reports\mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: PPO_stochastic

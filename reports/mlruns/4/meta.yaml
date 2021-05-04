@@ -1,0 +1,4 @@
+artifact_location: file///C:\PROJEKTY\GAT\gat-ml-eng-devtest\reports\mlruns/4
+experiment_id: '4'
+lifecycle_stage: active
+name: DQN_stochastic

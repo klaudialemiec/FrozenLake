@@ -1,0 +1,4 @@
+artifact_location: file///C:\PROJEKTY\GAT\gat-ml-eng-devtest\reports\mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: A2C_stochastic

@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoints/
+.vscode/
+gym_env/
+notebooks/.ipynb_checkpoints/
+src/__pycache__/
